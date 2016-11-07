@@ -1,0 +1,27 @@
+{
+  "name": "express-dynamic-routes",
+  "version": "1.0.0",
+  "description": "express route practice ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dangerstephen/express-dynamic-routes.git"
+  },
+  "keywords": [
+    "express",
+    "test",
+    "routes"
+  ],
+  "author": "Stephen Dangerfield",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dangerstephen/express-dynamic-routes/issues"
+  },
+  "homepage": "https://github.com/dangerstephen/express-dynamic-routes#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
