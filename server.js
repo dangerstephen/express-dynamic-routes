@@ -1,6 +1,10 @@
+
+
 // REQUIREMENTS
-var express = require('express'),
-  app = express();
+var express = require('express');
+  var app = express();
+
+  var bodyParser = require('body-parser');
 
 //DATA (temporary until we know how to use databases)
 var burgers = [
